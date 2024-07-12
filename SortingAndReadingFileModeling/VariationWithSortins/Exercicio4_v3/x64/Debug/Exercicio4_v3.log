@@ -1,0 +1,7 @@
+﻿  Exercicio4_v3.cpp
+C:\Users\Heitor\OneDrive - Fundação Salvador Arena\Quarto Semestre\Estruturas de Dados\N2.B1\Exercicio4_v3\Exercicio4_v3\Exercicio4_v3.cpp(27,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Heitor\OneDrive - Fundação Salvador Arena\Quarto Semestre\Estruturas de Dados\N2.B1\Exercicio4_v3\Exercicio4_v3\Exercicio4_v3.cpp(46,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Heitor\OneDrive - Fundação Salvador Arena\Quarto Semestre\Estruturas de Dados\N2.B1\Exercicio4_v3\Exercicio4_v3\Exercicio4_v3.cpp(67,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Heitor\OneDrive - Fundação Salvador Arena\Quarto Semestre\Estruturas de Dados\N2.B1\Exercicio4_v3\Exercicio4_v3\Exercicio4_v3.cpp(239,66): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Heitor\OneDrive - Fundação Salvador Arena\Quarto Semestre\Estruturas de Dados\N2.B1\Exercicio4_v3\Exercicio4_v3\Exercicio4_v3.cpp(244,66): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  Exercicio4_v3.vcxproj -> C:\Users\Heitor\OneDrive - Fundação Salvador Arena\Quarto Semestre\Estruturas de Dados\N2.B1\Exercicio4_v3\x64\Debug\Exercicio4_v3.exe
